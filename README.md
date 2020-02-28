@@ -7,5 +7,5 @@ Installation process:
   **mv PiButton.sh /etc/init.d/**  
 3.Add the following line to the /etc/rc.local/ to run the code at Boot.  
   **sudo /etc/init.d/PiButton.sh start**  
-##Button Connection:  
+## Button Connection:  
 Connect a Button between GPIO Pin 3 and Ground.
