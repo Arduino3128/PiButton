@@ -8,7 +8,7 @@ x=0
 while x==0:
     state=GPIO.input(3)
     if state==0:
-        time.sleep(2)
+        time.sleep(3)
         state=GPIO.input(3)
         if state==0:
             x=1
