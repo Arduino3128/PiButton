@@ -10,5 +10,5 @@ Installation process:
 ## Button Connection:  
 Connect a Button between GPIO Pin 3 and Ground.
 ## Usage:  
-Pressing and holding the button for 3 Seconds reboots Raspberry Pi.  
-Short press shutdowns Raspberry Pi after 3 Seconds.  
+Pressing and holding the button for 2 Seconds reboots Raspberry Pi.  
+Short press shutdowns Raspberry Pi after 2 Seconds.  
